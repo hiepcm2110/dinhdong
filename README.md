@@ -12,6 +12,7 @@
         <p>Đây là nơi tôi chia sẻ những bản dinh dong.</p>
         <p>
          <a href="https://github.com/hiepcm2110/dinhdong/releases/download/dinhdong/app-pro_vnpost-release.apk" target="_blank" rel="noopener noreferrer">Dinh dong 22/06/2025 </a>
+       <a href="https://github.com/hiepcm2110/dinhdong/releases/download/dinhdong/app-pro_vnpost-release.apk" target="_blank" rel="noopener noreferrer">DCS 30/08/2025 </a>     
     </p>
     </main>
     <footer>
